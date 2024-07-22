@@ -1,6 +1,4 @@
-Here's the README file created based on the provided `WEBVTT` content and the uploaded image's content.
 
-```markdown
 # Variables in Go
 
 ## Overview
