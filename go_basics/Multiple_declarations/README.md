@@ -97,4 +97,3 @@ This project showcases basic and advanced variable handling in Go, including dif
 
 ---
 
-Feel free to adjust the content as needed for your specific context or requirements!
